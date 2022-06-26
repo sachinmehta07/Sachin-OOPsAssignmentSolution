@@ -2,7 +2,7 @@ package com.gl.project;
 
 public class SuperDepartment {
 
-    //Declaring Methods
+    //Declaring  Methods
     public  String departmentName() {return  "Super Department ";}
     public String getTodaysWork() {
         return "No Work as of now";

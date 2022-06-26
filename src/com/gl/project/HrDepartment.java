@@ -2,7 +2,7 @@ package com.gl.project;
 
 public class HrDepartment extends SuperDepartment {
 
-    //Declaring Methods
+    //Declaring  Methods
 
     public String departmentName() {
         return "Hr Department";

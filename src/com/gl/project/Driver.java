@@ -38,3 +38,26 @@ public class Driver{
     }
 }
 
+/*
+Output:-
+Welcome to Admin Department
+Complete your documnets Submission
+Complete by EOD
+Today is not a holiday
+   
+Welcome to Hr Department
+Team Lunch
+Fill today�s worksheet and mark your attendance
+Complete by EOD
+Today is not a holiday
+
+Welcome to Tech Department
+Complete coding of module 1
+Complete by EOD
+Today is not a holiday
+
+Process finished with exit code 0
+
+
+ */
+
